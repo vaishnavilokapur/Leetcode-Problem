@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vaishnavilokapur/Leetcode-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/vaishnavilokapur/Leetcode-Problem/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vaishnavilokapur/Leetcode-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/vaishnavilokapur/Leetcode-Problem/tree/master/0876-middle-of-the-linked-list) |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vaishnavilokapur/Leetcode-Problem/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vaishnavilokapur/Leetcode-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
